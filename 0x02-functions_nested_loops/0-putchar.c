@@ -5,7 +5,7 @@
 	* Description: Prints "_putchar" followed by a new line character
 	*
 	* Return: Always 0 (Success)
-	*/
+	**/
 	int main(void)
 	{
 	_putchar('_');
